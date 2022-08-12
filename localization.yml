@@ -1,2 +1,2 @@
-ALREADY_ON_SERVER: '§c§lANIME§6§lWORLD§8: §7Вы §cуже подключены §7к данному серверу'
-SERVER_QUEUE: '§c§lANIME§6§lWORLD§8: §7Вы были §aперенаправлены §fна сервер §e%s'
+ALREADY_ON_SERVER: "§c§lANIME§6§lWORLD§8: §7Вы §cуже подключены §7к данному серверу"
+SERVER_QUEUE: "§c§lANIME§6§lWORLD§8: §7Вы были §aперенаправлены §fна сервер §e%s"
