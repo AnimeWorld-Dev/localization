@@ -1,0 +1,39 @@
+{
+  "COMMAND_RELOAD_LANG_USE": "§c§lANIME§6§lWORLD§8: §7Перезагрузить локализацию: §a/lang reload",
+  "LANG_RELOAD": "§c§lANIME§6§lWORLD§8: §7Вы успешно §aперезагрузили §7локализацию",
+  "COMMAND_ONLY_PLAYERS": "§c§lANIME§6§lWORLD§8: §7Команда предназначена только для игроков",
+  "COMMAND_ONLY_CONSOLE": "§c§lANIME§6§lWORLD§8: §7Команда предназначена только для консоли",
+  "COOLDOWN": "§c§lANIME§6§lWORLD§8: §7Подождите §a%s сек. §7перед повторным использованием",
+  "NO_PERMISSIONS": "§c§lANIME§6§lWORLD§8: §7Доступно от %s",
+  "PLAYER_NOT_ONLINE": "§c§lANIME§6§lWORLD§8: §7Игрок §c%s §7не онлайн",
+  "PLAYER_NEVER_PLAYED": "§c§lANIME§6§lWORLD§8: §7Игрок §c%s §7никогда не заходил на сервер",
+  "NOT_NUMERIC": "§c§lANIME§6§lWORLD§8: §7Число введено §cневерно",
+  "ENCHANT_TITLE": "§8Стол зачарований",
+  "PAGE_BACK_NAME": "§a← §a§lПредыдущая страница",
+  "PAGE_BACK_LORE": [
+    "§7Нажмите, чтобы перейти на",
+    "§7предыдущую страницу"
+  ],
+  "PAGE_NEXT_NAME": "§a§lСледующая страница §a→",
+  "PAGE_NEXT_LORE": [
+    "§7Нажмите, чтобы перейти на",
+    "§7следующую страницу"
+  ],
+  "COINS_INFO": "§6§lКОИНЫ: §7У вас на балансе: §a%s §fкоинов",
+  "COINS_GET_USE": "§6§lКОИНЫ: §7Использование: §a/coins get ник",
+  "COINS_GET_SUCCESS": "§6§lКОИНЫ: §7У игрока §e%s §a%s §7коинов",
+  "COINS_GIVE_USE": "§6§lКОИНЫ: §7Использование: §a/coins give ник количество",
+  "COINS_GIVE_SUCCESS": "§6§lКОИНЫ: §7Игроку §e%s §7выдано §a%s §fкоинов",
+  "COINS_SET_USE": "§6§lКОИНЫ: §7Использование: §a/coins set ник количество",
+  "COINS_SET_SUCCESS": "§6§lКОИНЫ: §7Игроку §e%s §7установлено §a%s §fкоинов",
+  "COINS_TAKE_USE": "§6§lКОИНЫ: §7Использование: §a/coins take ник количество",
+  "COINS_TAKE_SUCCESS": "§6§lКОИНЫ: §7У игрока §e%s §7забрано §a%s §fкоинов",
+  "COINS_HELP": [
+    "",
+    "§6§lКОИНЫ: §fУзнать сколько у игрока коинов - §6/coins get ник",
+    "§6§lКОИНЫ: §fВыдать игроку коинов - §6/coins give ник количество",
+    "§6§lКОИНЫ: §fУстановить игроку коины - §6/coins set ник количество",
+    "§6§lКОИНЫ: §fЗабрать у игрока коины - §6/coins take ник количество",
+    ""
+  ]
+}
