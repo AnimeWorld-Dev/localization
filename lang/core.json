@@ -76,5 +76,6 @@
   "GROUP_SET_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Вы успешно §aустановили §7игроку §e%s §7группу %s",
   "GROUP_MERGE_NO_ARGS": "§c§lANIME§6§lWORLD§8: §7Перенести группу игроку - §a/group merge игрок игрок_2",
   "GROUP_MERGE_ERROR": "§c§lANIME§6§lWORLD§8: §7И смысл тебе переносить группу игрока? Ты бл*ть идиот?",
-  "GROUP_MERGE_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Вы успешно §aперенесли §7группу %s §7на аккаунт §e%s"
+  "GROUP_MERGE_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Вы успешно §aперенесли §7группу %s §7на аккаунт §e%s",
+  "BUNGEE_CORE_CONNECTED": "подключен\nподключен"
 }
