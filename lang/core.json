@@ -1,6 +1,6 @@
 {
   "ALREADY_ON_SERVER": "§c§lANIME§6§lWORLD§8: §7Вы §cуже подключены §7к данному серверу",
-  "SERVER_QUEUE": "§c§lANIME§6§lWORLD§8: §7Вы были §aперенаправлены §fна сервер §e%s",
+  "SERVER_QUEUE": "§c§lANIME§6§lWORLD§8: §7Вы были §aперенаправлены §7на сервер §e%s",
   "CORE_HELP": [
     "§f",
     "§6/core cmd сервер кмд §7- отправить команду на сервер §c(Только Bukkit)",
