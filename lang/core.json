@@ -116,5 +116,22 @@
     " §c- §7Состояние: %s",
     "§f"
   ],
-  "MODULE_LIST": "§c§lANIME§6§lWORLD§8: §7Список модулей (§a%s§7): %s"
+  "MODULE_LIST": "§c§lANIME§6§lWORLD§8: §7Список модулей (§a%s§7): %s",
+  "CORE_FIND_NO_ARGS": "§c§lANIME§6§lWORLD§8: §7Найти игрока - §a/find игрок",
+  "CORE_FIND_LAST_ONLINE": "§c§lANIME§6§lWORLD§8: §7Игрок §a%s §7заходил последний раз §c%s назад",
+  "CORE_FIND_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Игрок §a%s §7находится на сервере §e%s",
+  "CORE_IPADDRESS": "§c§lANIME§6§lWORLD§8: §7Узнать IP игрока - §a/ip игрок",
+  "CORE_IPADDRESS_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Айпи игрока §a%s §7- §e%s",
+  "CORE_GLOBAL_ONLINE": "§c§lANIME§6§lWORLD§8: §7Общий онлайн - §a%s человек",
+  "CORE_ONLINE_BY_PREFIX": "§c§lANIME§6§lWORLD§8: §7Онлайн серверов по префиксу §e@%s §7равен §a%s человек",
+  "CORE_ONLINE_BY_SERVER": "§c§lANIME§6§lWORLD§8: §7Онлайн сервера §e%s §7равен §a%s человек",
+  "CORE_SEND_NO_ARGS": "§c§lANIME§6§lWORLD§8: §7Отправить игрока на другой сервер - §a/send игрок сервер",
+  "CORE_SEND_SENDER_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Вы успешно отправили игрока §a%s §7на сервер §e%s",
+  "CORE_SEND_TARGET_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Администратор %s §7отправил вас на сервер §e%s",
+  "CORE_SERVER_NO_ARGS": "§c§lANIME§6§lWORLD§8: §7Телепортироваться на сервер - §a/server сервер",
+  "CORE_THROW_NO_ARGS": "§c§lANIME§6§lWORLD§8: §7Телепортировать всех с одного на другой сервер - §a/throw сервер сервер_2",
+  "CORE_THROW_SUCCESS": "§c§lANIME§6§lWORLD§8: §7Вы успешно телепортировали всех с сервера §e%s §7на сервер §a%s",
+  "CORE_WATCH_NO_ARGS": "§c§lANIME§6§lWORLD§8: §7Следить за игроком (телепортироваться к нему) - §a/watch игрок",
+  "CORE_WATCH_ERROR_SPECTATE_YOURSELF": "§c§lANIME§6§lWORLD§8: §7Вы §cне можете §7наблюдать за собой",
+  "CORE_WATCH_BROADCAST": "§c§lANIME§6§lWORLD§8: §a%s §7начал слежку за игроком §e%s"
 }
